@@ -15,13 +15,12 @@ This is a simple React-based TODO web application that allows users to create, e
 To run this application locally, follow these steps:
 
 1. **Clone the repository:**
-
    ```bash
-git clone https://github.com/Ashutosh0x/React-Todo-app.git
+   git clone https://github.com/Ashutosh0x/React-Todo-app.git
 
 2. **Navigate into the project directory:**
    ```bash
-  cd todo-react-app
+   cd todo-react-app
    
 
 4.  **Install dependencies**
@@ -29,15 +28,4 @@ git clone https://github.com/Ashutosh0x/React-Todo-app.git
   npm install
 
 
-5.  **Start the development server**
-   ```bash
-  npm start
 
-
-Usage
-Once the application is running, you can access it in your web browser at http://localhost:3000. Here's how you can use the app:
-
-Add Task: Enter a task in the input field and press Enter or click on the "Add" button to add it to the list.
-Edit Task: Click on the pencil icon next to a task to edit it. Make your changes and press Enter or click outside the input field to save the changes.
-Update Task: If you've made changes to a task, they will be updated in real-time.
-Delete Task: Click on the trash can icon next to a task to delete it from the list

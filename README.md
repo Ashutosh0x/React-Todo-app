@@ -26,6 +26,3 @@ To run this application locally, follow these steps:
 4.  **Install dependencies**
    ```bash
   npm install
-
-
-

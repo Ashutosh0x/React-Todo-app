@@ -23,6 +23,7 @@ To run this application locally, follow these steps:
    cd todo-react-app
    
 
-4.  **Install dependencies**
+4.  **Install dependencies and Run**
    ```bash
   npm install
+  npm start
